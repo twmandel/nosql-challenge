@@ -1,1 +1,1 @@
-I enjoyed completing this assingment with MongoDB. I had a bit of trouble with the initial importing of the dataset at the start of the setup workbook. I was eventually able to figure out a way that worked and stuck to it.
+I enjoyed completing this assingment with MongoDB. I had a bit of trouble with the initial importing of the dataset at the start of the setup workbook. I was eventually able to figure out a way that worked and stuck to it. From there, the rest of the assignment was pretty intuitive
